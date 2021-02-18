@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ujjpatel
 - 👀 I’m interested in learning React/React Native 
-- 🌱 I’m currently learning vanilla Javascript and doing UI automation using WeddriverIO and Cypress.
 - 💞️ I’m looking to collaborate on anything technical.
 - 📫 How to reach me @ujjavalpatel@hotmail.com
 
