@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ujjaval Patel
-- 👨‍💻 Experienced QA Automation Engineer specializing in Mobile and Web Testing
+- 👨‍💻 Experienced QA Automation Engineer specialising in Mobile and Web Testing
 - 🌐 Proficient with Selenium, Appium, Cypress, WebdriverIO, Playwright, and more
 - 🖥️ You can have a look at my cv here: https://ujjpatel619.github.io/ 
 - 📫 How to reach me **@ujjavalpatel@hotmail.com**
