@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ujjpatel
-- 👀 I’m interested in learning React/React Native 
-- 💞️ I’m looking to collaborate on anything technical.
-- 📫 How to reach me @ujjavalpatel@hotmail.com
+- 👋 Hi, I’m Ujjaval Patel 
+- 👀 I’m looking to collaborate on anything technical.
+- 🖥️ You can have a look at my cv here: https://ujjpatel619.github.io/ 
+- 📫 How to reach me **@ujjavalpatel@hotmail.com**
 
 <!---
 ujjpatel/ujjpatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
