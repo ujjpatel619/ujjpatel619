@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ujjaval Patel
 - 👨‍💻 Experienced QA Lead / Senior Automation Engineer specialising in Mobile and Web Testing
 - 🌐 Proficient with Selenium, Appium, Cypress, WebdriverIO, Playwright, and more
-- 🖥️ You can have a look at my cv here: https://ujjpatel619.github.io/ 
 - 📫 How to reach me **@ujjavalpatel@hotmail.com**
 
 <!---
